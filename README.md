@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=150&section=header&text=👋%20I'm%20Yechan,-nl-%20coding%20my%20way%20to%20the%20future.&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=120&section=header&text=👋%20I'm%20Yechan,-nl-%20coding%20my%20way%20to%20the%20future.&fontSize=30)
 
 <br/>
 
