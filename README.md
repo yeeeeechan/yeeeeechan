@@ -1,6 +1,5 @@
 <div align=center>
 <h3> 🌈 Welcome! 🌈 </h3>
-I'm Yechan, an aspiring full-stack developer. 👨‍💻 <br />
 I'm currently studying and honing my skills in various technologies. 📚 <br />
 Welcome to my GitHub, where I share my learning journey! 🚀
 </div>
