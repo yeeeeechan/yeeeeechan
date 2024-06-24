@@ -35,7 +35,7 @@ Welcome to my GitHub, where I share my learning journey! 🚀
 <br />
 <div align=center> <h3> 🤝 follow me 🤝 </h3> 
 <a href="mailto:leeyechan6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.figma.com/proto/cvxN4qhSd9L3tT8HFrJGut/portfoilo_%EC%9D%B4%EC%98%88%EC%B0%AC?type=design&node-id=3-3337&t=BiVAotU86tCZErwv-1&scaling=scale-down&page-id=0%3A1&mode=design" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/></a>
+<!-- <a href="https://www.figma.com/proto/cvxN4qhSd9L3tT8HFrJGut/portfoilo_%EC%9D%B4%EC%98%88%EC%B0%AC?type=design&node-id=3-3337&t=BiVAotU86tCZErwv-1&scaling=scale-down&page-id=0%3A1&mode=design" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/></a> -->
 <a href="https://velog.io/@yeeeeechan" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://yechanlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/yechanlog-red?style=flat-square&logo=tistory&logoColor=white"/></a>
 </div>
